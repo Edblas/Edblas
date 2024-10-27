@@ -1,4 +1,4 @@
-## Hey sou o Adílio, desenvolver de programação e tecnologia!
+## Hey sou o Adílio, desenvolvedor de programação e tecnologia!
 
 Bem-vindo! Aqui, a criatividade se encontra com a tecnologia. Vamos criar juntos!"
 
