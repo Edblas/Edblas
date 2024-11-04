@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&width=600&lines=Hello!+Meu+nome+é+Adílio+sou+Desenvolvedor!.;Sejam+bem+vindos%2C+esse+é+meu+GitHub.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=45&width=600&lines=Hello!+Meu+nome+é+Adílio+sou+Desenvolvedor!.;Sejam+bem+vindos%2C+esse+é+meu+GitHub.)](https://git.io/typing-svg)
 
 
 Aqui, a criatividade se encontra com a tecnologia. Vamos criar juntos!"
