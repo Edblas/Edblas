@@ -1,7 +1,7 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=45&width=600&lines=Hello!+Meu+nome+é+Adílio+sou+Desenvolvedor!.;Sejam+bem+vindos%2C+esse+é+meu+GitHub.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=45&width=600&lines=Hello!+My+name+is+Adílio,+I'm+Back-end!.;Sejam+bem+vindos%2C+esse+é+meu+GitHub.)](https://git.io/typing-svg)
 
 
-Aqui, a criatividade se encontra com a tecnologia. Vamos criar juntos!"
+Here, creativity meets technology. Let's create together!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,18 +22,24 @@ Aqui, a criatividade se encontra com a tecnologia. Vamos criar juntos!"
    
 </div>
 
-### 🚀 O que eu faço:
-- **💻 Desenvolvimento Web:** Trabalhando com Node.js, Express, HTML, CSS e muito mais!
-- **🔗 Blockchain:** Criando soluções descentralizadas e integrando com redes como Tor e IPFS.
-- **🤖 Machine Learning:** Explorando como otimizar sistemas com aprendizado de máquina.
+# 🚀 What I Do
+I am currently developing my skills as a programmer, focusing on:
 
-### 🌱 O que estou explorando:
-- **TypeScript & Microserviços:** Para uma arquitetura mais robusta.
-- **Blockchain + Tor/IPFS:** Focando em privacidade e descentralização.
-- **Machine Learning:** Usando ML para otimização de processos.
+- **Java ☕:** Studying programming and Object-Oriented Programming 🧩.
+- **SQL 🗄️:** Learning for database management.
+- **JDBC 🔌:** Using for database connectivity.
+- **JSON 📄:** Handling structured data.
+- **Logging 📝:** Implementing for application monitoring.
+- **APIs 🔗:** Exploring various APIs for integration.
 
-### 🎯 Missão
-Trazer inovação e valor com tecnologias emergentes, criando soluções eficientes, seguras e escaláveis.
+Through various bootcamps 🎓, I am gaining practical experience and solidifying my knowledge. In addition, I am at an intermediate level in English 🌐, able to read and engage in conversations confidently. I am continuously working to expand my skills to excel in the programming field.
+
+# 🎯 Mission
+To bring innovation and value with emerging technologies, creating efficient, secure, and scalable solutions.
+
+# 🎮 Hobbies
+- **🔗 Blockchain:** Creating decentralized solutions and integrating with networks like Tor and IPFS.
+- **⚽ Playing soccer.** With my friends every week.
 
 ## Minhas Contribuições
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edblas&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=1&title_color=4&text_color=FFF)
