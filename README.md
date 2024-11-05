@@ -41,7 +41,7 @@ To bring innovation and value with emerging technologies, creating efficient, se
 - **🔗 Blockchain:** Creating decentralized solutions and integrating with networks like Tor and IPFS.
 - **⚽ Playing soccer.** With my friends every week.
 
-## Minhas Contribuições
+## My Contributions
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edblas&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=1&title_color=4&text_color=FFF)
 
 
