@@ -14,6 +14,34 @@ Here, creativity meets technology. Let's create together!
    <a href="https://www.linkedin.com/in/adilio-santos-9048b8220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
 </div>
+# 🚀 O que eu faço  
+Atualmente, estou desenvolvendo minhas habilidades como programador, com foco em:  
+
+- **Java ☕:** Estudando programação e Programação Orientada a Objetos 🧩.  
+- **SQL 🗄️:** Aprendendo para gerenciamento de banco de dados.  
+- **JDBC 🔌:** Utilizando para conectividade com bancos de dados.  
+- **JSON 📄:** Manipulando dados estruturados.  
+- **Logging 📝:** Implementando para monitoramento de aplicações.  
+- **APIs 🔗:** Explorando diversas APIs para integração.  
+
+Através de diversos bootcamps 🎓, estou adquirindo experiência prática e solidificando meus conhecimentos.  
+Além disso, tenho nível intermediário em inglês 🌐, conseguindo ler e me comunicar com confiança.  
+Estou constantemente expandindo minhas habilidades para me destacar na área de programação.  
+
+---
+
+## 🎯 Missão  
+Trazer inovação e valor com tecnologias emergentes, criando soluções eficientes, seguras e escaláveis.  
+
+---
+
+## 🎮 Hobbies  
+- **⚽ Jogar futebol.** Com meus amigos toda semana.  
+
+---
+
+## 📊 Minhas Contribuições  
+
 
 # 🚀 What I Do
 I am currently developing my skills as a programmer, focusing on:
@@ -34,8 +62,3 @@ To bring innovation and value with emerging technologies, creating efficient, se
 - **⚽ Playing soccer.** With my friends every week.
 
 ## My Contributions
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edblas&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=1&title_color=4&text_color=FFF)
-
-
-
----
