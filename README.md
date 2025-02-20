@@ -36,7 +36,7 @@ Trazer inovação e valor com tecnologias emergentes, criando soluções eficien
 ---
 
 ## 🎮 Hobbies  
-- **⚽ Jogar futebol.** Com meus amigos toda semana.  
+- **⚽ Jogar futebol.**  
 
 ---
 
@@ -59,6 +59,6 @@ Through various bootcamps 🎓, I am gaining practical experience and solidifyin
 To bring innovation and value with emerging technologies, creating efficient, secure, and scalable solutions.
 
 # 🎮 Hobbies
-- **⚽ Playing soccer.** With my friends every week.
+- **⚽ Playing soccer.** 
 
 ## My Contributions
