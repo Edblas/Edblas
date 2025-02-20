@@ -13,52 +13,43 @@ Here, creativity meets technology. Let's create together!
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/adilio-santos-9048b8220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-</div>
-# 🚀 O que eu faço  
-Atualmente, estou desenvolvendo minhas habilidades como programador, com foco em:  
-
-- **Java ☕:** Estudando programação e Programação Orientada a Objetos 🧩.  
-- **SQL 🗄️:** Aprendendo para gerenciamento de banco de dados.  
-- **JDBC 🔌:** Utilizando para conectividade com bancos de dados.  
-- **JSON 📄:** Manipulando dados estruturados.  
-- **Logging 📝:** Implementando para monitoramento de aplicações.  
-- **APIs 🔗:** Explorando diversas APIs para integração.  
-
-Através de diversos bootcamps 🎓, estou adquirindo experiência prática e solidificando meus conhecimentos.  
-Além disso, tenho nível intermediário em inglês 🌐, conseguindo ler e me comunicar com confiança.  
-Estou constantemente expandindo minhas habilidades para me destacar na área de programação.  
+<h1 align="center">🚀 Edblas - Desenvolvedor Back-End</h1>
 
 ---
 
-## 🎯 Missão  
-Trazer inovação e valor com tecnologias emergentes, criando soluções eficientes, seguras e escaláveis.  
+## 🛠️ Sobre mim  
+Atualmente, estou aprimorando minhas habilidades como desenvolvedor backend, com foco em **Java** e **Spring Boot**. Sempre buscando aprender novas tecnologias e aplicá-las em projetos práticos.
+
+📌 **Objetivo:** Me tornar um desenvolvedor backend eficiente, com experiência em arquitetura de software e boas práticas.
 
 ---
 
-## 🎮 Hobbies  
-- **⚽ Jogar futebol.**  
+## 🚀 Habilidades  
+📌 **Linguagens & Frameworks**  
+- ☕ **Java** – Programação Orientada a Objetos e desenvolvimento backend com **Spring Boot**.  
+- 🌐 **APIs REST** – Desenvolvimento e consumo de APIs.  
+- 🔌 **JDBC** – Conectividade entre aplicações Java e bancos de dados.  
+
+📌 **Banco de Dados & Armazenamento**  
+- 🗄️ **SQL / PostgreSQL** – Modelagem e gerenciamento de banco de dados.  
+- 📄 **JSON** – Manipulação de dados estruturados.  
+
+📌 **Ferramentas & Outras Tecnologias**  
+- 📝 **Logging** – Implementação de monitoramento e depuração.  
+- 🛠️ **Git & GitHub** – Controle de versão e colaboração.  
 
 ---
 
-## 📊 Minhas Contribuições  
+## 📂 Projetos  
+🔹 **[App de Troca de Habilidades](#)** - Aplicação para troca de serviços entre usuários. *(Em desenvolvimento 🚧)*  
+🔹 **[Agendador de Tarefas](#)** - Sistema baseado em microsserviços para gerenciamento de tarefas. *(Em progresso 🚀)*  
 
+---
 
-# 🚀 What I Do
-I am currently developing my skills as a programmer, focusing on:
+## 📬 Contato  
+🔗 .... 
+📧 adiliop98@gmail.com*  
 
-- **Java ☕:** Studying programming and Object-Oriented Programming 🧩.
-- **SQL 🗄️:** Learning for database management.
-- **JDBC 🔌:** Using for database connectivity.
-- **JSON 📄:** Handling structured data.
-- **Logging 📝:** Implementing for application monitoring.
-- **APIs 🔗:** Exploring various APIs for integration.
+---
 
-Through various bootcamps 🎓, I am gaining practical experience and solidifying my knowledge. In addition, I am at an intermediate level in English 🌐, able to read and engage in conversations confidently. I am continuously working to expand my skills to excel in the programming field.
-
-# 🎯 Mission
-To bring innovation and value with emerging technologies, creating efficient, secure, and scalable solutions.
-
-# 🎮 Hobbies
-- **⚽ Playing soccer.** 
-
-## My Contributions
+🔹 Sempre buscando aprender mais e contribuir com projetos inovadores! 🚀  
