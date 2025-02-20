@@ -12,10 +12,6 @@ Here, creativity meets technology. Let's create together!
   <a href="https://www.instagram.com/adilio.dossantos.73/?igsh=emZobzVlbXVnbmFm#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/adilio-santos-9048b8220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
-<h1 align="center">🚀 Edblas - Desenvolvedor Back-End</h1>
-
----
 
 ## 🛠️ Sobre mim  
 Atualmente, estou aprimorando minhas habilidades como desenvolvedor backend, com foco em **Java** e **Spring Boot**. Sempre buscando aprender novas tecnologias e aplicá-las em projetos práticos.
