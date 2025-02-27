@@ -37,7 +37,6 @@ Atualmente, estou aprimorando minhas habilidades como desenvolvedor backend, com
 ---
 
 ## 📂 Projetos  
-🔹 **[App de Troca de Habilidades](#)** - Aplicação para troca de serviços entre usuários. *(Em desenvolvimento 🚧)*  
 🔹 **[Agendador de Tarefas](#)** - Sistema baseado em microsserviços para gerenciamento de tarefas. *(Em progresso 🚀)*  
 
 ---
