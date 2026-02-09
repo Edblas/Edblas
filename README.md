@@ -1,5 +1,3 @@
-
-# 👋 Olá! Eu sou o Adílio 🚀  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=45&width=600&lines=Hello!+My+name+is+Ad%C3%ADlio.;I'm+a+Back-end+Developer!;Seja+bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 💡 Onde tecnologia encontra propósito. Vamos construir algo juntos!
