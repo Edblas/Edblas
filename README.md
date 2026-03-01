@@ -1,45 +1,71 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=45&width=600&lines=Hello!+My+name+is+Ad%C3%ADlio.;I'm+a+Back-end+Developer!;Seja+bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=45&width=600&lines=Hello!+My+name+is+Ad%C3%ADlio.;Back-end+Developer+%7C+Java+%26+Spring+Boot;Criando+solu%C3%A7%C3%B5es+reais+com+tecnologia!)](https://git.io/typing-svg)
 
-💡 Onde tecnologia encontra propósito. Vamos construir algo juntos!
+💡 Tecnologia com visão de negócio. Construindo soluções que resolvem problemas reais.
 
 ---
 
 ## 🧑‍💻 Sobre mim  
-Sou **desenvolvedor Back-end**, focado principalmente em **Java e Spring Boot**.  
-Atualmente, estou evoluindo minhas habilidades em **arquitetura de software**, **APIs REST** e **boas práticas de desenvolvimento**, sempre aplicando o aprendizado em projetos reais.
+
+Sou **Desenvolvedor Back-end** com foco em **Java e Spring Boot**, criador de soluções voltadas para aplicações reais — especialmente sistemas de mobilidade e serviços.
+
+Além do desenvolvimento, tenho visão empreendedora e estou à frente do desenvolvimento do meu próprio aplicativo de mobilidade urbana.
 
 🎯 **Objetivo:**  
-Me consolidar como desenvolvedor backend, criando soluções escaláveis, organizadas e de fácil manutenção.
+Me consolidar como desenvolvedor backend especializado em sistemas escaláveis, arquitetura bem estruturada e aplicações de alta disponibilidade.
+
+---
+
+## 🚀 Projeto Principal  
+
+### 🏍️ ZapMoto  
+Aplicativo de mobilidade urbana focado em **moto táxi e entregas**, já publicado na Play Store.
+
+🔹 Backend desenvolvido em **Java + Spring Boot**  
+🔹 Banco de dados **PostgreSQL**  
+🔹 Sistema de corridas com regras de negócio personalizadas  
+🔹 Controle de taxas (noturna, dinâmica, etc.)  
+🔹 WebSocket para atualização em tempo real  
+🔹 Planejamento para múltiplas paradas em corrida  
+🔹 Estrutura preparada para crescimento e escalabilidade  
 
 ---
 
 ## 🛠️ Tecnologias & Habilidades  
 
 ### 📌 Linguagens & Frameworks  
-- ☕ **Java** (POO, boas práticas)  
+- ☕ **Java (POO, Clean Code, boas práticas)**  
 - 🌱 **Spring Boot**  
-- 🔗 **APIs REST**  
+- 🔗 **APIs RESTful**  
+- 🔄 WebSocket  
 
 ### 📌 Banco de Dados  
-- 🗄️ **PostgreSQL / SQL**  
-- 🔌 **JDBC**  
-- 📄 **JSON**
+- 🗄️ **PostgreSQL**  
+- 🔌 **JDBC / JPA**  
+- 📄 JSON  
 
-### 📌 Ferramentas & Conceitos  
-- 🧠 **Arquitetura em Camadas**  
-- 📝 **Logging e tratamento de erros**  
-- 🛠️ **Git & GitHub**  
-- ⚙️ **Maven**  
-- 🧪 Testes básicos e validações  
+### 📌 Arquitetura & Conceitos  
+- 🧠 Arquitetura em Camadas  
+- 🏗️ Estruturação de regras de negócio  
+- 📈 Escalabilidade básica de sistemas  
+- 📝 Logging e tratamento global de erros  
+- 🔐 Validação de dados e segurança básica  
+
+### 📌 Ferramentas  
+- 🛠️ Git & GitHub  
+- ⚙️ Maven  
+- ☁️ Deploy em Railway  
+- 📦 Versionamento de APIs  
 
 ---
 
-## 🚀 Projetos em destaque  
-📌 Aplicações backend com Java e Spring Boot  
-📌 Sistemas de troca de serviços e habilidades  
-📌 APIs voltadas para aplicativos mobile (moto táxi e entregas)
+## 📈 Em evolução  
 
-*(Em constante evolução 👨‍💻)*
+Atualmente estudando e aplicando na prática:
+
+- Arquitetura mais robusta (Clean Architecture)
+- Melhorias de performance no backend
+- Organização avançada de código
+- Estratégias de crescimento de produto
 
 ---
 
@@ -59,4 +85,5 @@ Me consolidar como desenvolvedor backend, criando soluções escaláveis, organi
 
 ---
 
-✨ Sempre aprendendo, evoluindo e construindo soluções reais com código.
+🔥 Desenvolvedor que aprende construindo.  
+🚀 Criando soluções reais com código e visão de negócio.
